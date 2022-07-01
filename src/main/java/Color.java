@@ -8,7 +8,6 @@ public class Color {
 
         System.out.println(checkPersons(color,anzahl));
 
-
     }
 
     public static int switchA(String color) {
@@ -26,7 +25,7 @@ public class Color {
             default:
                 System.out.println("Keine Farbe angegeben");
                 return 0;
-
+                
         }
     }
 
