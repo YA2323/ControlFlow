@@ -18,6 +18,7 @@ public class Faku {
         for(int i = 1;i<=n; i++){
 
             erg = erg*i;
+
         }
         return erg;
     }

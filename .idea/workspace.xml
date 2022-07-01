@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366c93ca-f853-49dc-b269-6c6ba5a8d166" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="366c93ca-f853-49dc-b269-6c6ba5a8d166" name="Changes" comment="CI Test">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Faku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Faku.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +87,23 @@
       <option name="presentableId" value="Default" />
       <updated>1656583709442</updated>
       <workItem from="1656583710648" duration="12665000" />
+      <workItem from="1656666518932" duration="438000" />
     </task>
+    <task id="LOCAL-00001" summary="CI Test">
+      <created>1656666718728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656666718728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CI Test">
+      <created>1656666884896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656666884896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +119,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CI Test2" />
+    <MESSAGE value="CI Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="CI Test" />
   </component>
 </project>
