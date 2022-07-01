@@ -13,7 +13,6 @@ public class Color {
 
     public static int switchA(String color) {
 
-
         switch (color) {
             case "rot":
                 System.out.println("keine Person erlaubt");
