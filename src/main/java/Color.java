@@ -25,7 +25,7 @@ public class Color {
             default:
                 System.out.println("Keine Farbe angegeben");
                 return 0;
-                
+
         }
     }
 
